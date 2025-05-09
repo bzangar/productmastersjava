@@ -1,5 +1,5 @@
 package medium;
 
-public interface DataSource<T> {
-    T getData();
+public interface DataSource {
+    UserData getData();
 }
